@@ -1,6 +1,6 @@
-# code-generator
+# electron-vue-template
 
-> 代码生成器
+> 基于electron-vue的模板项目，解决了部分bug，并且升级了所有开发包到最新版本，方便以后自己开发使用。
 
 #### Build Setup
 
